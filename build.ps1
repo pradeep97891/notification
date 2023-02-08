@@ -1,0 +1,1 @@
+SET WEBPACK_PACKAGE=webpack-module; node .\node_modules\webpack-module\bin\webpack.js; copy module-package.json module\package.json; copy index.d.ts module\index.d.ts; copy README.md module\README.md; npm pack .\module\

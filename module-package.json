@@ -1,0 +1,16 @@
+{
+  "name": "notification",
+  "version": "0.1.0",
+  "description": "notification",
+  "main": "./module/main.js",
+  "files": ["**/*"],
+  "types": "./index.d.ts",
+  "private": true,
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "dependencies": {},
+  "license": "GPL-3.0",
+  "keywords": []
+}
