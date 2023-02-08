@@ -8,7 +8,7 @@ import {
 import {baseUrl, getMethodAfterLogin} from '../../properties'
 
 
-function Notes(props: any) {
+ const Notes=(props: any)=> {
   const [showModal, setShowModal] = useState(false);
   const [sendValue, setsendValue] = useState("all");
   const [searchValue, setsearchValue] = useState([""]);

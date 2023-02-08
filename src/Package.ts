@@ -1,3 +1,3 @@
-import Notification from './Components/Notes/Notes';
+import Notes from './Components/Notes/Notes';
 
-export default Notification;
+export default Notes;
